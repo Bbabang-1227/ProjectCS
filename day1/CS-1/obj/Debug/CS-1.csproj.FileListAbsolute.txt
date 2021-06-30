@@ -1,0 +1,7 @@
+C:\Users\BIT\source\repos\ProjectC#\CS-1\CS-1\bin\Debug\CS-1.exe.config
+C:\Users\BIT\source\repos\ProjectC#\CS-1\CS-1\bin\Debug\CS-1.exe
+C:\Users\BIT\source\repos\ProjectC#\CS-1\CS-1\bin\Debug\CS-1.pdb
+C:\Users\BIT\source\repos\ProjectC#\CS-1\CS-1\obj\Debug\CS-1.csproj.AssemblyReference.cache
+C:\Users\BIT\source\repos\ProjectC#\CS-1\CS-1\obj\Debug\CS-1.csproj.CoreCompileInputs.cache
+C:\Users\BIT\source\repos\ProjectC#\CS-1\CS-1\obj\Debug\CS-1.exe
+C:\Users\BIT\source\repos\ProjectC#\CS-1\CS-1\obj\Debug\CS-1.pdb

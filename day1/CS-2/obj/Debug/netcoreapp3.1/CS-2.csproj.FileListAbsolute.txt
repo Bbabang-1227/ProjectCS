@@ -1,0 +1,13 @@
+C:\Users\BIT\source\repos\ProjectC#\CS-1\CS-2\bin\Debug\netcoreapp3.1\CS-2.exe
+C:\Users\BIT\source\repos\ProjectC#\CS-1\CS-2\bin\Debug\netcoreapp3.1\CS-2.deps.json
+C:\Users\BIT\source\repos\ProjectC#\CS-1\CS-2\bin\Debug\netcoreapp3.1\CS-2.runtimeconfig.json
+C:\Users\BIT\source\repos\ProjectC#\CS-1\CS-2\bin\Debug\netcoreapp3.1\CS-2.runtimeconfig.dev.json
+C:\Users\BIT\source\repos\ProjectC#\CS-1\CS-2\bin\Debug\netcoreapp3.1\CS-2.dll
+C:\Users\BIT\source\repos\ProjectC#\CS-1\CS-2\bin\Debug\netcoreapp3.1\CS-2.pdb
+C:\Users\BIT\source\repos\ProjectC#\CS-1\CS-2\obj\Debug\netcoreapp3.1\CS-2.csproj.AssemblyReference.cache
+C:\Users\BIT\source\repos\ProjectC#\CS-1\CS-2\obj\Debug\netcoreapp3.1\CS-2.AssemblyInfoInputs.cache
+C:\Users\BIT\source\repos\ProjectC#\CS-1\CS-2\obj\Debug\netcoreapp3.1\CS-2.AssemblyInfo.cs
+C:\Users\BIT\source\repos\ProjectC#\CS-1\CS-2\obj\Debug\netcoreapp3.1\CS-2.csproj.CoreCompileInputs.cache
+C:\Users\BIT\source\repos\ProjectC#\CS-1\CS-2\obj\Debug\netcoreapp3.1\CS-2.dll
+C:\Users\BIT\source\repos\ProjectC#\CS-1\CS-2\obj\Debug\netcoreapp3.1\CS-2.pdb
+C:\Users\BIT\source\repos\ProjectC#\CS-1\CS-2\obj\Debug\netcoreapp3.1\CS-2.genruntimeconfig.cache
