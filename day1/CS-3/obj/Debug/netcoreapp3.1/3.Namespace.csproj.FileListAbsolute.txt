@@ -1,0 +1,12 @@
+C:\Users\BIT\source\repos\ProjectC#\CS-1\CS-3\bin\Debug\netcoreapp3.1\3.Namespace.exe
+C:\Users\BIT\source\repos\ProjectC#\CS-1\CS-3\bin\Debug\netcoreapp3.1\3.Namespace.deps.json
+C:\Users\BIT\source\repos\ProjectC#\CS-1\CS-3\bin\Debug\netcoreapp3.1\3.Namespace.runtimeconfig.json
+C:\Users\BIT\source\repos\ProjectC#\CS-1\CS-3\bin\Debug\netcoreapp3.1\3.Namespace.runtimeconfig.dev.json
+C:\Users\BIT\source\repos\ProjectC#\CS-1\CS-3\bin\Debug\netcoreapp3.1\3.Namespace.dll
+C:\Users\BIT\source\repos\ProjectC#\CS-1\CS-3\bin\Debug\netcoreapp3.1\3.Namespace.pdb
+C:\Users\BIT\source\repos\ProjectC#\CS-1\CS-3\obj\Debug\netcoreapp3.1\3.Namespace.AssemblyInfoInputs.cache
+C:\Users\BIT\source\repos\ProjectC#\CS-1\CS-3\obj\Debug\netcoreapp3.1\3.Namespace.AssemblyInfo.cs
+C:\Users\BIT\source\repos\ProjectC#\CS-1\CS-3\obj\Debug\netcoreapp3.1\3.Namespace.csproj.CoreCompileInputs.cache
+C:\Users\BIT\source\repos\ProjectC#\CS-1\CS-3\obj\Debug\netcoreapp3.1\3.Namespace.dll
+C:\Users\BIT\source\repos\ProjectC#\CS-1\CS-3\obj\Debug\netcoreapp3.1\3.Namespace.pdb
+C:\Users\BIT\source\repos\ProjectC#\CS-1\CS-3\obj\Debug\netcoreapp3.1\3.Namespace.genruntimeconfig.cache

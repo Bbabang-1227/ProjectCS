@@ -1,0 +1,13 @@
+C:\Users\BIT\source\repos\ProjectC#\CS-1\Test\bin\Debug\netcoreapp3.1\Partical.exe
+C:\Users\BIT\source\repos\ProjectC#\CS-1\Test\bin\Debug\netcoreapp3.1\Partical.deps.json
+C:\Users\BIT\source\repos\ProjectC#\CS-1\Test\bin\Debug\netcoreapp3.1\Partical.runtimeconfig.json
+C:\Users\BIT\source\repos\ProjectC#\CS-1\Test\bin\Debug\netcoreapp3.1\Partical.runtimeconfig.dev.json
+C:\Users\BIT\source\repos\ProjectC#\CS-1\Test\bin\Debug\netcoreapp3.1\Partical.dll
+C:\Users\BIT\source\repos\ProjectC#\CS-1\Test\bin\Debug\netcoreapp3.1\Partical.pdb
+C:\Users\BIT\source\repos\ProjectC#\CS-1\Test\obj\Debug\netcoreapp3.1\Partical.csproj.AssemblyReference.cache
+C:\Users\BIT\source\repos\ProjectC#\CS-1\Test\obj\Debug\netcoreapp3.1\Partical.AssemblyInfoInputs.cache
+C:\Users\BIT\source\repos\ProjectC#\CS-1\Test\obj\Debug\netcoreapp3.1\Partical.AssemblyInfo.cs
+C:\Users\BIT\source\repos\ProjectC#\CS-1\Test\obj\Debug\netcoreapp3.1\Partical.csproj.CoreCompileInputs.cache
+C:\Users\BIT\source\repos\ProjectC#\CS-1\Test\obj\Debug\netcoreapp3.1\Partical.dll
+C:\Users\BIT\source\repos\ProjectC#\CS-1\Test\obj\Debug\netcoreapp3.1\Partical.pdb
+C:\Users\BIT\source\repos\ProjectC#\CS-1\Test\obj\Debug\netcoreapp3.1\Partical.genruntimeconfig.cache
