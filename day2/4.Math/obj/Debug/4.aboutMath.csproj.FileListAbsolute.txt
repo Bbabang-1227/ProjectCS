@@ -1,0 +1,7 @@
+C:\Users\BIT\source\repos\ProjectC#\CS-1\4.Math\bin\Debug\4.Math.exe.config
+C:\Users\BIT\source\repos\ProjectC#\CS-1\4.Math\bin\Debug\4.Math.exe
+C:\Users\BIT\source\repos\ProjectC#\CS-1\4.Math\bin\Debug\4.Math.pdb
+C:\Users\BIT\source\repos\ProjectC#\CS-1\4.Math\obj\Debug\4.aboutMath.csproj.AssemblyReference.cache
+C:\Users\BIT\source\repos\ProjectC#\CS-1\4.Math\obj\Debug\4.aboutMath.csproj.CoreCompileInputs.cache
+C:\Users\BIT\source\repos\ProjectC#\CS-1\4.Math\obj\Debug\4.Math.exe
+C:\Users\BIT\source\repos\ProjectC#\CS-1\4.Math\obj\Debug\4.Math.pdb

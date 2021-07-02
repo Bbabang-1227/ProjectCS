@@ -1,0 +1,7 @@
+C:\Users\BIT\source\repos\ProjectC#\CS-1\5.0702\bin\Debug\5.0702.exe.config
+C:\Users\BIT\source\repos\ProjectC#\CS-1\5.0702\bin\Debug\5.0702.exe
+C:\Users\BIT\source\repos\ProjectC#\CS-1\5.0702\bin\Debug\5.0702.pdb
+C:\Users\BIT\source\repos\ProjectC#\CS-1\5.0702\obj\Debug\5.0702.csproj.AssemblyReference.cache
+C:\Users\BIT\source\repos\ProjectC#\CS-1\5.0702\obj\Debug\5.0702.csproj.CoreCompileInputs.cache
+C:\Users\BIT\source\repos\ProjectC#\CS-1\5.0702\obj\Debug\5.0702.exe
+C:\Users\BIT\source\repos\ProjectC#\CS-1\5.0702\obj\Debug\5.0702.pdb
