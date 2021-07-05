@@ -1,0 +1,7 @@
+C:\Users\BIT\source\repos\ProjectC#\CS-1\6.0705\bin\Debug\6.0705.exe.config
+C:\Users\BIT\source\repos\ProjectC#\CS-1\6.0705\bin\Debug\6.0705.exe
+C:\Users\BIT\source\repos\ProjectC#\CS-1\6.0705\bin\Debug\6.0705.pdb
+C:\Users\BIT\source\repos\ProjectC#\CS-1\6.0705\obj\Debug\6.0705.csproj.AssemblyReference.cache
+C:\Users\BIT\source\repos\ProjectC#\CS-1\6.0705\obj\Debug\6.0705.csproj.CoreCompileInputs.cache
+C:\Users\BIT\source\repos\ProjectC#\CS-1\6.0705\obj\Debug\6.0705.exe
+C:\Users\BIT\source\repos\ProjectC#\CS-1\6.0705\obj\Debug\6.0705.pdb
